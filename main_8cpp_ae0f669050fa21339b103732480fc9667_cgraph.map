@@ -1,0 +1,8 @@
+<map id="testDog" name="testDog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,72,80"/>
+<area shape="rect" id="node2" href="$classDog.html#a710429cc93dc5140d5616f72804468a9" title="Causes the dog to bark." alt="" coords="123,5,199,31"/>
+<area shape="rect" id="node4" href="$classDog.html#a756ea89c1b661023452d87063049145e" title="Causes the dog to run." alt="" coords="127,55,196,80"/>
+<area shape="rect" id="node6" href="$classDog.html#a8082ce753fd0911a6744bfa553a65e48" title="Causes the dog to sleep." alt="" coords="120,104,203,129"/>
+<area shape="rect" id="node3" href="$classDog.html#a50f21c8181e2871699af6fe8edad9a4f" title="Checks the dog&#39;s energy." alt="" coords="251,31,376,56"/>
+<area shape="rect" id="node5" href="$utility_8cpp.html#a50de380d6a4786c51a18168d9d9c7fa1" title="Multiplies two numbers." alt="" coords="280,92,347,117"/>
+</map>
